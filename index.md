@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/uiyun/hjy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uiyun/hjy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<head>
+<meta http-equiv="refresh" content="0;url=https://www.huaijiangyuan.com">
+<meta name="keywords" content="怀姜源,焦作市怀姜源,怀姜,怀姜糖膏,怀姜晶茶,博爱怀姜,河南焦作">
+<meta name="description" content="怀姜源，遇见更好的你！匠人匠心做产品，有品质，有追求！我们与河南省科学院合作成立了怀姜源研究所，致力于怀姜及四大怀药
+的种植、研发与生产。心的产品，爱的暖意，就是怀姜源的未来！">
+ </head>
